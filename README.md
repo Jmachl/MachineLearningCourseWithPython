@@ -1,4 +1,4 @@
 # MachineLearningCourseWithPython
 Exercises taken from 'The complete Machine Learning Course with Python'
 
-- [Learn Pytorch for Deep Learning in a Day](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+- [Learn Pytorch for Deep Learning](https://www.youtube.com/watch?v=Z_ikDlimN6A)
